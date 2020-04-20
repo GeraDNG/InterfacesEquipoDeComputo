@@ -1,0 +1,1 @@
+-force-include-file "Velocimetro.c";"c:\Users\rober\Desktop\Noveno Semestre\Tareas Intefacez\ProyLabWindowsCVI\Velocimetro\Velocimetro.c" 

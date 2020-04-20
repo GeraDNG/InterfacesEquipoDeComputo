@@ -1,0 +1,10 @@
+Pines Arduino para faros:
+D9 adelante izquierda
+D11 High beam
+D6 Front left
+D5 Low beam
+D3 Atrás izquierda 
+
+Con referencia a los botones, es sentido inverso, o sea
+A0 (vertical) = horizontal
+A1 (horizontal) = vertical
